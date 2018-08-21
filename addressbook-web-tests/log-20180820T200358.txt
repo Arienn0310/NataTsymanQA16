@@ -1,0 +1,2 @@
+20:04:02.545 [main] INFO  com.tran.TestBase - Start testtestGroupModification
+20:04:16.201 [main] INFO  com.tran.TestBase - Stop testtestGroupModification

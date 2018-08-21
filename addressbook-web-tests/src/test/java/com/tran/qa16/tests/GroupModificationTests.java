@@ -1,13 +1,13 @@
 package com.tran.qa16.tests;
 
-import com.tran.qa16.GroupData;
+import com.tran.qa16.model.GroupData;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class GroupModificationTests extends TestBase {
 
     @Test
-        public void testGroupModification() {
+        public void testGroupModification() throws InterruptedException {
 
         app.getGroupHelper().goToGroupsPage();
         if(!app.isGroupPresent()){

@@ -1,0 +1,2 @@
+19:11:21.574 [main] INFO  c.tran.GroupCreationTest - Start test testGroupCreation
+19:11:35.249 [main] INFO  c.tran.GroupCreationTest - Stop testGroupCreation

@@ -3,15 +3,15 @@
 <suite name="Suite1" verbose="1" >
     <test name="Login">
          <classes>
-            <class name="com.tran.qa16.tests.TestLogin"/>
+            <class name="com.tran.TestLogin"/>
          </classes>
     </test>
 
     <test name="Groups" >
         <classes>
-            <class name="com.tran.qa16.tests.GroupCreationTest" />
-            <class name="com.tran.qa16.tests.GroupModificationTests" />
-            <class name="com.tran.qa16.tests.GroupDeletionTest" />
+            <class name="com.tran.GroupCreationTest" />
+            <class name="com.tran.GroupModificationTests" />
+            <class name="com.tran.GroupDeletionTest" />
 
         </classes>
     </test>

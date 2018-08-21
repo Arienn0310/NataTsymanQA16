@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="addressbook-web-tests_main" target="1.8" />
       <module name="addressbook-web-tests_test" target="1.8" />
+      <module name="autoauction_main" target="1.8" />
+      <module name="autoauction_test" target="1.8" />
       <module name="FirstProject_main" target="1.8" />
       <module name="FirstProject_test" target="1.8" />
       <module name="second-web-selenium-byRecorder_main" target="1.8" />
